@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2c56c7-0eea-4e10-989f-bc3316c54255" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oKsRcXir6qoSXend3XYdxPep2B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Lambdas">
+    <configuration name="Lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalsection.Lambdas" />
+      <module name="Functional Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalsection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combinatorpattern.Main" />
+      <module name="Functional Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="combinatorpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optionals.Main" />
+      <module name="Functional Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optionals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams._Stream" />
+      <module name="Functional Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalinterface._Supplier" />
+      <module name="Functional Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lambdas" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application._Stream" />
+        <item itemvalue="Application._Supplier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2c56c7-0eea-4e10-989f-bc3316c54255" name="Default Changelist" comment="" />
+      <created>1613046609779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613046609779</updated>
+      <workItem from="1613046611386" duration="11067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="175" key="#Auto_Import" timestamp="1613059035835">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="552" y="175" key="#Auto_Import/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613059035835" />
+    <state x="552" y="175" key="#Project_Structure" timestamp="1613046643683">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="552" y="175" key="#Project_Structure/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613046643683" />
+    <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1613056208423">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613056208423" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1613059709915">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613059709915" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1613059709915">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613059709915" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1613059709915">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613059709915" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1613059709915">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613059709915" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1613046867132">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1034/0.0.1920.1034@0.0.1920.1034" timestamp="1613046867132" />
+  </component>
+</project>

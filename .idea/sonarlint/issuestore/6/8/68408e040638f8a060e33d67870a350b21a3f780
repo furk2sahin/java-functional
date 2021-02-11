@@ -1,0 +1,12 @@
+
+a
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 4 times.(éØÂU8½¶‘‹ù.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(éØÂU8½¶‘‹ù.
+E
+java:S5411"*Use the primitive boolean expression here.(É‘œ¥8ÒŠ“‹ù.
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üå„Æûÿÿÿÿ
+R	java:S106"9Replace this use of System.out or System.err by a logger.(éØÂU8ûˆ‹ù.
+‡
+java:S1192"gDefine a constant instead of duplicating this literal ", thanks for registering phone number " 4 times.(Ã˜¦ùÿÿÿÿ8½¶‘‹ù.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(éØÂU8¢¨•‹ù.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(éØÂU8ĞîúŠù.

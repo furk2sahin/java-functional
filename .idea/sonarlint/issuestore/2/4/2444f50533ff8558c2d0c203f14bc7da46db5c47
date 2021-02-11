@@ -1,0 +1,14 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(«ÚĞßÿÿÿÿÿ8ê¸£‹ù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(® ¨…ùÿÿÿÿ8ÇÈ¬‹ù.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨èá8±«‹ù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ı÷Ú‡ùÿÿÿÿ8Ó¸ª‹ù.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´«ûô8ğÀ²‹ù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(·¸©¥ûÿÿÿÿ8±«‹ù.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´«ûô8¶â´‹ù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿç°°øÿÿÿÿ8Ğø¤‹ù.
+l
+java:S1192"LDefine a constant instead of duplicating this literal "09009877300" 3 times.(«ÚĞßÿÿÿÿÿ8ñŠ²‹ù.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ‡ò­8ÇÈ¬‹ù.
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿÷Ìüÿÿÿÿ
+X	java:S106"9Replace this use of System.out or System.err by a logger.(»‚”ôıÿÿÿÿ8œÕ¡‹ù.

@@ -1,0 +1,8 @@
+
+X
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ğ‰ò‹ù.
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ©ë
+X	java:S106"9Replace this use of System.out or System.err by a logger.(›øñşÿÿÿÿ8ß„Œù.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü÷šƒ8É­†Œù.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(×ÙÓÉúÿÿÿÿ8É­†Œù.
+[	java:S125"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8™“ÿ‹ù.
