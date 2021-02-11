@@ -1,3 +1,3 @@
-# java-funtional
+# java-functional
 
 Functional programming with Java
